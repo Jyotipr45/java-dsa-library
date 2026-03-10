@@ -3,7 +3,7 @@
 
 A curated collection of **Data Structures & Algorithms**, **System Design concepts**, and **Java utilities** implemented in Java.
 
-This repository serves as a personal reference while studying the **Striver A2Z DSA roadmap** and important backend architecture concepts.
+This repository serves as a personal reference while studying the **Striver A2Z DSA roadmap**.
 
 ---
 
@@ -53,11 +53,3 @@ Topic: bit_manipulation
 Module: bitwise_and_of_numbers_range
 
 Last Updated: 2026-03-11
-
----
-
-## 🎯 Purpose
-
-- Track learning progress
-- Maintain clean Java implementations
-- Build a structured developer reference
